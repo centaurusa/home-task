@@ -1,0 +1,9 @@
+.App div:not(.row) {
+  border: 1px solid gray;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

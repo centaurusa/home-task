@@ -1,0 +1,17 @@
+.Alert {
+    width: 400px;
+    height: 80px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -40px;
+    margin-left: -200px;
+    border: 1px solid gray;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 10px 10px 35px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 35px -6px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 35px -6px rgba(0,0,0,0.75);
+}

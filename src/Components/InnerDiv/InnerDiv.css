@@ -1,0 +1,12 @@
+.InnerDiv {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    transition: transform 1s ease-in-out;
+    cursor: pointer;
+}
+
+.InnerDiv.up {
+    transform: translateY(-50px);
+}
